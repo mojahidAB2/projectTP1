@@ -15,9 +15,6 @@
     {
       "name": "Produit Test",
       "price": 50
-    },
-    {
-      "name": "Add your name in the body"
     }
   ],
   "orders": [
